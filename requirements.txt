@@ -1,0 +1,9 @@
+numpy
+tensorflow
+keras
+pillow
+jupyter
+bitstring
+tqdm
+matplotlib
+opencv-python
